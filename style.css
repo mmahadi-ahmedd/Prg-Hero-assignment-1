@@ -29,7 +29,7 @@ html,body{
 #nav button{
     padding: 15px 30px;
     font-family: "Fira Sans", serif;
-    font-size: medium;
+    font-size: large;
     font-weight: 800;
     font-style: normal;
     border-radius: 8px;
@@ -37,4 +37,114 @@ html,body{
     border-color: green;
     background-color: white;
     border-width: 1px;
+}
+.banner{
+    height: 70%;
+    padding: 80px 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    margin: 92px;
+    border-radius: 10px;
+}
+.banner h2{
+    font-size: 35px;
+    opacity: 100%;
+    color: #363030;
+}
+.banner h3{
+    font-size: 90px;
+}
+.banner button{
+    padding: 17px 34px;
+    color: white;
+    background-color: #006A50;
+    height: 70px;
+    width: 350px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 800;
+    font-size: large;
+}
+.card-title{
+    padding: 0px 100px;
+    gap: 100px;
+}
+.card-title h2{
+    padding: 10px 0px;
+    font-size: 40px;
+}
+.card-title p{
+    padding: 10px 0px;
+    font-size: 16px;
+    font-weight: 300;
+}
+.card-conatiner{
+    width: 100%;
+   display: flex;
+   justify-content: space-between;
+   padding: 50px 100px;
+}
+.card1{
+    padding: 10px;
+    background-color: hsla(218, 56%, 76%, 0.747);
+    border-radius: 16px;
+    margin: 0px 20px 0 0;
+}
+.card1 h2{
+    padding: 10px 0px 20px;
+}
+.card1 a{
+    margin: 10px 0px 20px;
+}
+.card1 button{
+    margin: 20px 0px;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: #5490F5;
+    border: none;
+}
+.card2{
+    padding: 10px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    margin: 0px 20px;
+
+}
+.card2 h2{
+    padding: 10px 0px 20px;
+}
+.card2 a{
+    margin: 10px 0px 20px;
+}
+.card2 button{
+    margin: 20px 0px;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: #09A15C;
+    border: none;
+}
+.card3{
+    padding: 10px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    margin: 0px 0px 0 20px;
+
+}
+.card3 h2{
+    padding: 10px 0px 20px;
+}
+.card3 a{
+    margin: 10px 0px 20px;
+}
+.card3 button{
+    margin: 20px 0px;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: #FFC239;
+    border: none;
 }
