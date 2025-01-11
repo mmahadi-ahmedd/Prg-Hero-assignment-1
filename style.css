@@ -327,4 +327,58 @@ html,body{
 .p-card img,h2,p{
     margin: 15px;
 }
-
+.subs-part{
+    height: 60%;
+    text-align: center;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    margin: 150px 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.subs-title-part{
+    font-size: 40px;
+}
+.subs-para-part{
+    font-size: 20px;
+    margin-top: 50px;
+}
+.subs-input-part input{
+    padding: 20px 320px;
+    text-align: 0;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px 0px 0px 10px;
+    border: none;
+}
+.subs-input-part button{
+    padding: 20px 50px;
+    background-color: #006A50;
+    font-size: 15px;
+    color: white;
+    font-weight: 500;
+    border-radius: 0px 10px 10px 0px;
+    border: none;
+}
+.subs-input-part {
+    margin: 50px;
+}
+.subs-end-part p{
+    font-size: 20px;
+}
+.social-media-part {
+    hight: 30%;
+    width: 100%;
+    text-align: center;
+}
+.social-media-part p{
+    padding: 30px 100px;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 20px 0px 60px;
+    border-bottom: 2px solid black;
+}
+.social-media-part img{
+    margin: 0px 20px;
+    size: 30px;
+}
