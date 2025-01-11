@@ -403,7 +403,7 @@ html,body{
     width: 100%;
     font-size: 22px;
     padding: 0px 10px 10px;
-    background-image: url(/assets/quote-bg.png);
+    background-image: url(./assets/quote-bg.png);
     background-repeat: no-repeat;
 }
 #qot-name{
